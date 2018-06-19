@@ -133,4 +133,4 @@ const styles = StyleSheet.create({
 
 ## References
 
-*
+* https://github.com/rt2zz/redux-persist
