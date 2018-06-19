@@ -1,3 +1,8 @@
+# This is part of the "Struggling with JavaScript" aka doc-js book
+
+* https://leanpub.com/doc-js
+* If you want to contribute to the book or join me as a coauthor pool, please get in contact mgalli at mgalli dot com subject "doc-js book"
+
 # This expands a prior React Redux app to have a persist store using redux-persist
 
 Make you you check the [Example of React Native Redux app bringing a collection of products to the screen](https://github.com/taboca/doc-js-example-react-native-redux-join-jogic-store).
