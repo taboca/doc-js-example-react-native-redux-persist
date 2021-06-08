@@ -1,4 +1,4 @@
-# This is part of the "Struggling with JavaScript" aka doc-js book
+# Study note - React Native Redux with Redux-persist
 
 * https://leanpub.com/doc-js
 * If you want to contribute to the book or join me as a coauthor pool, please get in contact mgalli at mgalli dot com subject "doc-js book"
